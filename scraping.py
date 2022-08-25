@@ -137,7 +137,6 @@ def hemispheres(browser):
         browser.back()
     return hemisphere_image_urls
 
-
 def scrape_hemisphere(html_text):
     # parse html text
     hemi_soup = soup(html_text, "html.parser")
