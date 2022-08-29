@@ -1,6 +1,6 @@
 # Mission To Mars - Web Scraping with HTML/CSS
 
-# Description
+## Description
 Extracting data from an active website(webscraping) using Chrome Developer Tools to identify the HTML and CSS components attached to the data. Will also using a Python script that uses Beautiful Soup and Splinter to automate browser and gather the data identified. 
 Splinter automates the web browser that navigates other websites on its own, and Beautiful Soup extracts the data. 
 The data is then stored in a JSON data structure using MongoDB (a NoSQL Database).
