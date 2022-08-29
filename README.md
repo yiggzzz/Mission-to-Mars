@@ -16,26 +16,25 @@ Before scraping the data, first understand how webpages are built. Next, write a
 
 * Specific method of gathering the latest data: Web scraping. 
 
-![]()
+![](https://github.com/yiggzzz/Mission-to-Mars/blob/main/images/data_gathering.png)
 
 ### Results
 
 * Scrape Mars Data
 
-![]()
+![](https://github.com/yiggzzz/Mission-to-Mars/blob/main/images/Scrape_marsData.png)
 
 * Scrape Mars Fact
 
-![]()
+![](https://github.com/yiggzzz/Mission-to-Mars/blob/main/images/MarsFact_data.png)
 
 * Data about the Mission to Mars
 
-![]())
+![](https://github.com/yiggzzz/Mission-to-Mars/blob/main/images/scrape_results.png)
 
 * Hemispheres Data
 
-![]()
-
+![](https://github.com/yiggzzz/Mission-to-Mars/blob/main/images/mars_hemispheres_scraping.png)
 
 
 ### Things I Learned
